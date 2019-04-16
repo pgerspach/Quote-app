@@ -1,6 +1,6 @@
 # Quote
 
-## A dedicated and intimate platform for sharing moments through quotes.
+### A dedicated and intimate platform for sharing moments through quotes.
 
 Quote is, at it's simplest, a stripped down social media app which jettisons all of the extravagence bundled with the most popular sites, leaving behind a modest yet elegant medium for users to connect with one another. 
 
